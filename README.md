@@ -55,6 +55,6 @@
 <a href = "https://www.instagram.com/mariaedaragao/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCyrc5EtXpar8DbPjLwEJmew"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
     
-    <b>credits to: <a>https://www.youtube.com/watch?v=ejCUxSfXgxs</a> for the template.</b>
+  credits to: <a>https://www.youtube.com/watch?v=ejCUxSfXgxs</a> for the template.
 
 </p>
