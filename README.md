@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ about me.
 
-- 🌱 i'm currently learning **machine learning**
+- 🌱 i'm currently learning **mobile development**
 
 - 👨‍💻 all my projects are availabe on  **[my github profile](https://github.com/eduardaaragao)**
 
