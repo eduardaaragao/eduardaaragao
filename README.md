@@ -8,7 +8,7 @@
 
 - 👨‍💻 all my projects are availabe on  **[my github profile](https://github.com/eduardaaragao)**
 
-- 📫 how to reach me **mariaragaocontato@outlook.com**
+- 📫 how to reach me **mariaragaocontacto@gmail.com**
 
 - ⚡ fun fact: **i'm passionate about learning new languages**
 
